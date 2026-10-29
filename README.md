@@ -1,5 +1,7 @@
 # Golan VPN
 
+[Feature and use guide](GUIDE.md) · [دليل الاستخدام العربي](GUIDE.ar.md) · [Releases: APK and complete source](https://github.com/GOLAN2CODE/golan-vpn/releases)
+
 [العربية](README.ar.md)
 
 Android VPN client preview **1.0.1-rc3 / code 4**, package `com.ibngolan.vpn`. Android 7/API 24 or newer; compile SDK 35, target SDK 34. This repository is a sanitized snapshot of the current application source and existing tests.
